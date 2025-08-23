@@ -1,16 +1,24 @@
+<div align="center">
+
 # 👋 Hello, I'm Mostafa Mohamed
 
 ## 🚀 Mobile App Developer | React Native & Flutter Specialist
+
+</div>
 
 **Bachelor's Degree in Computer Science** from Cairo University with expertise in building cross-platform mobile applications that deliver exceptional user experiences.
 
 **Proven ability to build, debug, and enhance mobile applications for iOS and Android, with successful deployments to both Google Play and the Apple App Store.**
 
-> 💼 **Professional Summary**: 
-> 
-> 🚀 **React Native Expert**: Proficient in React Native and Redux
-> 
-> 🎯 **Flutter Specialist**: Proficient in Flutter and Bloc
+---
+
+### 💼 **Professional Summary**
+
+🚀 **React Native Expert**: Proficient in React Native, Redux, and React Navigation with extensive experience in cross-platform mobile development.
+
+🎯 **Flutter Specialist**: Skilled in Flutter, Bloc Pattern, and Clean Architecture, delivering high-performance native applications.
+
+🔧 **Full-Stack Mobile Developer**: End-to-end development from concept to app store deployment, including UI/UX design, backend integration, and performance optimization.
 
 ---
 
