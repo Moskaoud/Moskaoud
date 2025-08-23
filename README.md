@@ -16,21 +16,10 @@
 
 ## 📫 **Let's Connect**
 
-<div align="center">
+- 📧 **Email**: [lrunl14tk@mozmail.com](mailto:lrunl14tk@mozmail.com)
+- 💼 **LinkedIn**: [Mostafa Mohamed](https://www.linkedin.com/in/moskaoud1/)
+- 🐙 **GitHub**: [@Moskaoud](https://github.com/Moskaoud)
 
-<a href="mailto:lrunl14tk@mozmail.com">
-  <img src="https://img.shields.io/badge/📧_Email-lrunl14tk@mozmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<a href="https://www.linkedin.com/in/moskaoud1/">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-Mostafa_Mohamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://github.com/Moskaoud">
-  <img src="https://img.shields.io/badge/🐙_GitHub-Moskaoud-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-</div>
 
 ---
 
