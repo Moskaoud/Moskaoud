@@ -18,7 +18,7 @@
 
 🎯 **Flutter Specialist**: Skilled in Flutter, Bloc Pattern, and Clean Architecture, delivering high-performance native applications.
 
-🔧 **Full-Stack Mobile Developer**: End-to-end development from concept to app store deployment, including UI/UX design, backend integration, and performance optimization.
+🔧 **Full-Stack Mobile Developer**: End-to-end development from concept to app store deployment, backend integration, and performance optimization.
 
 ---
 
